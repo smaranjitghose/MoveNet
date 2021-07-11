@@ -1,10 +1,10 @@
-# Efficient Pose Estimation
+![banner](./assets/banner.png)
 
 This repo comprises of a script that helps us to detect 17 keypoints from the human body and draw the corresponding edges for Pose Detection.
 
 **MODEL USED** : MoveNet Lightning SinglePose
 
-## Usage:
+## Usage ⭐ :
 
 - Clone this repository
 
